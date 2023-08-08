@@ -8,12 +8,12 @@
 </p>
 <p id="teach">
   <strong>Instructor:</strong>
-  <a href="https://ter.csb.univie.ac.at/people/kian-jenab">Kian Jenab</a>
+  <a href="https://ter.csb.univie.ac.at/people/kian-jenab">Kian Jenab </a>(Ph.D. candidate)
 </p>
 
 <p id="by">
   <strong>Organized by:</strong>
-  <a href="https://icoia.org">ICOIA</a>
+  <a href="https://icoia.org">ICOIA </a>(International Community of Iranian Academics)
 </p>
 
 <p id="date">
