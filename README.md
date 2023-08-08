@@ -2,6 +2,10 @@
 
 <h2 id="general">General Information</h2>
 
+<p id="code">
+  <strong>Code:</strong>
+  <a>BIOS101</a>
+</p>
 <p id="teach">
   <strong>Instructor:</strong>
   <a href="https://ter.csb.univie.ac.at/people/kian-jenab">Kian Jenab</a>
