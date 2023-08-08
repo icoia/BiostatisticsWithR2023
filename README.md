@@ -4,7 +4,7 @@
 
 <p id="teach">
   <strong>Instructor:</strong>
-  <a href="https://www.linkedin.com/in/kian-jenab-52110388/?originalSubdomain=at">Kian Jenab</a>
+  <a href="https://ter.csb.univie.ac.at/people/kian-jenab">Kian Jenab</a>
 </p>
 
 <p id="by">
