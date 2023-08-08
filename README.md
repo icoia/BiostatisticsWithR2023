@@ -39,7 +39,7 @@
 <p id="register">
   <strong>Register:</strong>
   <a href="mailto:{{icoia.onlineschool@gmail.com}}">TBA</a> 
-</p
+</p>
 <p id="contact">
   <strong>Contact:</strong>
   <a href="mailto:{{icoia.onlineschool@gmail.com}}">icoia.onlineschool@gmail.com</a> 
