@@ -2,14 +2,19 @@
 
 <h2 id="general">General Information</h2>
 
+<p id="teach">
+  <strong>Instructor:</strong>
+  <a href="https://www.linkedin.com/in/kian-jenab-52110388/?originalSubdomain=at">Kian Jenab</a>
+</p>
+
 <p id="by">
-  <strong>Led by:</strong>
-  <a href="https://icoia.org">ICOIA (International Community of Iranian Academics)</a>
+  <strong>Organized by:</strong>
+  <a href="https://icoia.org">ICOIA</a>
 </p>
 
 <p id="date">
   <strong>Dates:</strong>
-  August 2023
+  .. - .. August 2023
 </p>
 
 <p id="obj">
@@ -27,7 +32,10 @@
   - R and Rstudio installed (instructions <a href="#setup">below</a>)
   - Excel or any text editor installed (e.g. TextWrangler, Notepad, BBEdit, etc.)
   
-
+<p id="register">
+  <strong>Register:</strong>
+  <a href="mailto:{{icoia.onlineschool@gmail.com}}">TBA</a> 
+</p
 <p id="contact">
   <strong>Contact:</strong>
   <a href="mailto:{{icoia.onlineschool@gmail.com}}">icoia.onlineschool@gmail.com</a> 
