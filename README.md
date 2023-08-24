@@ -2,6 +2,8 @@
 
 <h2 id="general">General Information</h2>
 
+<img src="images/bios101i.png" width="400" align="right">
+
 <p id="code">
   <strong>Code:</strong>
   <a>BIOS101</a>
@@ -18,7 +20,7 @@
 
 <p id="date">
   <strong>Dates:</strong>
-  .. - .. August 2023
+  September - November 2023
 </p>
 
 <p id="obj">
