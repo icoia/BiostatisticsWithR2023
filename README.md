@@ -69,8 +69,8 @@ This course covers the following material:
  - Data visualization
 
 <h2 id="setup">Setup</h2> 
-To participate in this Workshop, please install the following <a href="#r">software</a> 
-and <a href="#r-pkg">packages</a>, complete the <a href="#r-course">R courses for beginners</a>, 
+To participate in this Workshop, please install the following <a href="#r">software</a>, 
+complete the <a href="#r-course">R courses for beginners</a>, 
 and let us know if you need any help before attending.
 
 <div id="r">
@@ -121,7 +121,8 @@ and let us know if you need any help before attending.
   <div id="r">
   <h3>Install Discord</h3>
   <p>
-    Please download and install <a href="https://discord.com/download">Discord</a> for communications and troubleshooting during the course.
+    Please download and install <a href="https://discord.com/download">Discord</a> for communications 
+    and troubleshooting during the course.
   </p>
  </div>   
  </div>
