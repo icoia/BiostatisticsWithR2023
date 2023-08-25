@@ -53,7 +53,8 @@ This course is suitable for:
 </p>
 
  - Levels: Beginner & Intermediate
- - Fields: Biology, Medicine, Agriculture & Natural Resources 
+ - Fields: Biology, Medicine, Agriculture & Natural Resources
+ - Language: Farsi
 
 <p id="cover">
 This course covers the following material:
