@@ -1,4 +1,4 @@
-# Biostatistics with R
+# Biostatistics and data analysis with R (BIOS101i)
 
 <h2 id="general">General Information</h2>
 
@@ -40,7 +40,7 @@
   
 <p id="register">
   <strong>Register:</strong>
-  <a href="mailto:{{icoia.onlineschool@gmail.com}}">TBA</a> 
+  <a href="https://qrco.de/beHROV">here</a> 
 </p>
 <p id="contact">
   <strong>Contact:</strong>
@@ -48,15 +48,25 @@
 </p>
 
 <h2 id="schedule">Schedule</h2>
-<p id="note">
+<p id="suit">
+This course is suitable for:
+</p>
+
+ - Levels: Beginner & Intermediate
+ - Fields: Biology, Medicine, Agriculture & Natural Resources 
+
+<p id="cover">
 This course covers the following material:
 </p>
 
-<h3 id="...">...</h3>
-<h4 id="...">...</h4>
-
- - Introduction to ...
  - Introduction to R
+ - Descriptive statistics
+ - t-test
+ - ANOVA
+ - Non-parametric tests
+ - Bivariate analysis
+ - Multivariate analysis
+ - Data visualization
 
 <h2 id="setup">Setup</h2> 
 To participate in this Workshop, please install the following <a href="#r">software</a> 
@@ -107,7 +117,13 @@ and let us know if you need any help before attending.
         <code>sudo yum install R</code> for Fedora/Redhat). Additionally, please install the
         <a href="http://www.rstudio.com/ide/download/desktop">RStudio IDE</a>.
    </p>
-  </div>  
+  </div> 
+  <div id="r">
+  <h3>Install Discord</h3>
+  <p>
+    Please download and install <a href="https://discord.com/download">Discord</a> for communications and troubleshooting during the course.
+  </p>
+ </div>   
  </div>
 </div>
    
@@ -117,10 +133,4 @@ Before attending the workshop, please go through the following courses:
 
   - <a href="https://app.datacamp.com/learn/courses/free-introduction-to-r">Introduction to R (Chapter 1)</a> 
   - <a href="http://swcarpentry.github.io/r-novice-inflammation/">Programming with R</a>
-
-
-<h3 id="r-pkg">Install R packages</h3>
-Please install the following <a href="https://github.com/icoia/BiostatisticsWithR2023/blob/main/PackageInstallation">R packages</a> in RStudio: 
-
-  - ...
  
