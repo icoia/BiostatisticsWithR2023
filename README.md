@@ -39,7 +39,7 @@
   - Excel or any text editor installed (e.g. TextWrangler, Notepad, BBEdit, etc.)
   
 <p id="watch">
-  <strong>Register:</strong>
+  <strong>Watch</strong>
   <a href="https://www.youtube.com/@icoia_official">here</a> 
 </p>
 <p id="contact">
