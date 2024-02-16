@@ -18,10 +18,10 @@
   <a href="https://icoia.org">ICOIA </a>(International Community of Iranian Academics)
 </p>
 
-<p id="date">
+<!--<p id="date">
   <strong>Dates:</strong>
   September - November 2023
-</p>
+</p>-->
 
 <p id="obj">
   <strong>Objective:</strong>
@@ -38,6 +38,11 @@
   - R and Rstudio installed (instructions <a href="#setup">below</a>)
   - Excel or any text editor installed (e.g. TextWrangler, Notepad, BBEdit, etc.)
   
+<!--<p id="register">
+  <strong>Register</strong>
+  <a href="...">here</a> 
+</p>-->
+
 <p id="watch">
   <strong>Watch</strong>
   <a href="https://www.youtube.com/@icoia_official">here</a> 
@@ -45,6 +50,12 @@
 <p id="contact">
   <strong>Contact:</strong>
   <a href="mailto:{{icoia.onlineschool@gmail.com}}">icoia.onlineschool@gmail.com</a> 
+</p>
+
+</p>
+<p id="discord">
+To ask questions about the course, communicate with the instructor and get informed about other free training courses, become a member of the ICOIA Online School 
+  <a href="https://discord.gg/afPD7G28K3">Discord server</a>.
 </p>
 
 <h2 id="schedule">Schedule</h2>
