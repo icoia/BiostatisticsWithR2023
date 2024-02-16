@@ -38,9 +38,9 @@
   - R and Rstudio installed (instructions <a href="#setup">below</a>)
   - Excel or any text editor installed (e.g. TextWrangler, Notepad, BBEdit, etc.)
   
-<p id="register">
+<p id="watch">
   <strong>Register:</strong>
-  <a href="https://qrco.de/beHROV">here</a> 
+  <a href="https://www.youtube.com/@icoia_official">here</a> 
 </p>
 <p id="contact">
   <strong>Contact:</strong>
