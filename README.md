@@ -57,7 +57,7 @@
 #To ask questions about the course, communicate with the instructor and get informed about other free training courses, become a member of the ICOIA Online School 
  # <a href="https://discord.gg/afPD7G28K3">Discord server</a>.
 To ask questions about the course, communicate with the instructor and get informed about other free training courses, become a member of the ICOIA Online School 
-  <a href="https://https://t.me/+jIfI2LibaBo2Yzc8?fbclid=PAZXh0bgNhZW0CMTEAAaZlAjc5hfp7mpqw7f8RxznZJ41NhZzFBl5LOjO07NjkorsvyXNDRH0pkNg_aem_l02uj-8pTJF5BiOA2yLSNQ">Telegram</a>.
+  <a href="https://t.me/+jIfI2LibaBo2Yzc8?fbclid=PAZXh0bgNhZW0CMTEAAaZlAjc5hfp7mpqw7f8RxznZJ41NhZzFBl5LOjO07NjkorsvyXNDRH0pkNg_aem_l02uj-8pTJF5BiOA2yLSNQ">Telegram Group</a>.
 </p>
 
 <h2 id="schedule">Schedule</h2>
