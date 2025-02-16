@@ -54,8 +54,10 @@
 
 </p>
 <p id="discord">
+#To ask questions about the course, communicate with the instructor and get informed about other free training courses, become a member of the ICOIA Online School 
+ # <a href="https://discord.gg/afPD7G28K3">Discord server</a>.
 To ask questions about the course, communicate with the instructor and get informed about other free training courses, become a member of the ICOIA Online School 
-  <a href="https://discord.gg/afPD7G28K3">Discord server</a>.
+  <a href="https://https://t.me/+jIfI2LibaBo2Yzc8?fbclid=PAZXh0bgNhZW0CMTEAAaZlAjc5hfp7mpqw7f8RxznZJ41NhZzFBl5LOjO07NjkorsvyXNDRH0pkNg_aem_l02uj-8pTJF5BiOA2yLSNQ">Telegram</a>.
 </p>
 
 <h2 id="schedule">Schedule</h2>
@@ -130,13 +132,13 @@ and let us know if you need any help before attending.
         <a href="http://www.rstudio.com/ide/download/desktop">RStudio IDE</a>.
    </p>
   </div> 
-  <div id="r">
-  <h3>Install Discord</h3>
-  <p>
-    Please download and install <a href="https://discord.com/download">Discord</a> for communications 
-    and troubleshooting during the course.
-  </p>
- </div>   
+  #<div id="r">
+  #<h3>Install Discord</h3>
+  #<p>
+   # Please download and install <a href="https://discord.com/download">Discord</a> for communications 
+   # and troubleshooting during the course.
+  #</p>
+ #</div>   
  </div>
 </div>
    
