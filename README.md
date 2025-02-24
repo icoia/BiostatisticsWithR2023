@@ -6,11 +6,11 @@
 
 <p id="code">
   <strong>Code:</strong>
-  <a>BIOS101</a>
+  <a>BIOS101i</a>
 </p>
 <p id="teach">
   <strong>Instructor:</strong>
-  <a href="https://ter.csb.univie.ac.at/people/kian-jenab">Kian Jenab </a>(Ph.D. candidate)
+  <a href="https://orcid.org/0000-0003-1323-7827">Kian Jenab </a>(Ph.D. candidate)
 </p>
 
 <p id="by">
