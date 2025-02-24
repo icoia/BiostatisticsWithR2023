@@ -133,17 +133,18 @@ and let us know if you need any help before attending.
      (e.g. run <code>sudo apt-get install r-base</code> for Debian/Ubuntu and run
         <code>sudo yum install R</code> for Fedora/Redhat). Additionally, please install the
         <a href="http://www.rstudio.com/ide/download/desktop">RStudio IDE</a>.
-   </p>
+   <p>
   </div> 
-  #<div id="r">
-  #<h3>Install Discord</h3>
-  #<p>
-   # Please download and install <a href="https://discord.com/download">Discord</a> for communications 
-   # and troubleshooting during the course.
-  #</p>
- #</div>   
- </div>
+   </div>
 </div>
+  <!--<div id="r">
+  <h3>Install Discord</h3>
+  <p>
+    Please download and install <a href="https://discord.com/download">Discord</a> for communications 
+    and troubleshooting during the course.
+  </p>
+ <!--</div>   
+
    
 <h3 id="r-course">R for beginners</h3>
 To follow the workshop, you must have a basic understanding of R.
