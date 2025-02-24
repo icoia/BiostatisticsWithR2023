@@ -2,7 +2,7 @@
 
 <h2 id="general">General Information</h2>
 
-<img src="images/bios101i.png" width="400" align="right">
+<img src="images/bios101i.png" width="350" align="right">
 
 <p id="code">
   <strong>Code:</strong>
